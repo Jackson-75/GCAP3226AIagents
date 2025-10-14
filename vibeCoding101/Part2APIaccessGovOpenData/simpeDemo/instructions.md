@@ -1,0 +1,2 @@
+input:
+process:visit the link and fetch content from the link and also visit any links on the page fetch more content and go deeper recurstively to exhaust all data you can get figure out what data is available via API
